@@ -72,7 +72,6 @@ C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\bin\Newtonsoft.Json.xml
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\bin\Antlr3.Runtime.pdb
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\obj\Debug\CRUDWith Entity Framework Using AJAX.csprojAssemblyReference.cache
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\obj\Debug\CRUDWith Entity Framework Using AJAX.csproj.CoreCompileInputs.cache
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\obj\Debug\CRUDWith Entity Framework Using AJAX.csproj.CopyComplete
 C:\Users\nazar\source\repos\CRUDWith Entity Framework Using AJAX\CRUDWith Entity Framework Using AJAX\obj\Debug\CRUDWith Entity Framework Using AJAX.dll
